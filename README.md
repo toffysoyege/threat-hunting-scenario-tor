@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/007a9e46-333b-4e60-a4d1-d7b6dad43bb1)
 
 # Threat Hunt Report: Unauthorized TOR Usage
-- [Scenario Creation](github.com)
+- [Scenario Creation](https://github.com/toffysoyege/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
 
 ## Platforms and Languages Leveraged
 
